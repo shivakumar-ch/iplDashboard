@@ -1,0 +1,52 @@
+.each-card-container {
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  color: #ffffff;
+  font-family: 'bree serif';
+}
+.each-card {
+  width: 90%;
+}
+.loader {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.banner-img {
+  width: 100%;
+  border-radius: 10px;
+}
+.RCB-bg {
+  background-color: #a4261d;
+}
+.DC-bg {
+  background-color: #4f5db0;
+}
+.SH-bg {
+  background-color: #f26d22;
+}
+.MI-bg {
+  background-color: #13418b;
+}
+.RR-bg {
+  background-color: #da237b;
+}
+.CSK-bg {
+  background-color: #f7db00;
+}
+.KXP-bg {
+  background-color: #d91c1f;
+}
+.KKR-bg {
+  background-color: #5755a7;
+}
+.recent-ul-item {
+  padding: 0px;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}

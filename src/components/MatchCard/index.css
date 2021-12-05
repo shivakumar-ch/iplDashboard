@@ -1,0 +1,29 @@
+.recent-li-item {
+  width: 40%;
+  height: 400px;
+  background-color: #000000;
+  padding: 10px;
+  list-style-type: none;
+  margin: 10px;
+  border-radius: 15px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+.recent-opponent-img {
+  width: 110px;
+  height: 120px;
+}
+.red-clr {
+  color: red;
+}
+.green-clr {
+  color: green;
+}
+@media (min-width: 768px) {
+  .recent-li-item {
+    width: 30%;
+  }
+}
